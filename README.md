@@ -2,19 +2,21 @@
 
 ## Name: Alina Ali
 
-## Instructor: Randy R. Davila
+## Instructor: Dr. Randy R. Davila
+
+## Course: DATA 4319 - Statistical and Machine Learning 
 
 ## University of Houston-Downtown
 
 ## Textbook:
 
-- (Required) Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron
-- (Recommended Supplemental Reading) Machine Learning with Python for Everyone, Addison Wesley Data & Analytics Series, 2020 Pearson Education, by Mark E. Fenner
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron
+- Machine Learning with Python for Everyone, Addison Wesley Data & Analytics Series, 2020 Pearson Education, by Mark E. Fenner
 
 
 ## Course Description:
 
-This repository is created for a Data Science and Machine Learning course (Data 4319). This repository includes data science and machine learning algorithms and it is purely based on Python langauage. The main topics are supervised learning and unsupervised learning. 
+This repository is created for a Statistical and Machine Learning course (Data 4319). This repository includes data science and machine learning algorithms and it is purely based on Python langauage. The main topics are supervised learning and unsupervised learning. 
 
 
 
