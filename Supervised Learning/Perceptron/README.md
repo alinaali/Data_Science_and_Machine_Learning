@@ -21,4 +21,4 @@ Below is an illustration of a biological neuron:
 </p>
 
 ---
-We will implement and train this model on the iris datase
+I will implement and train this model on the penguins dataset
