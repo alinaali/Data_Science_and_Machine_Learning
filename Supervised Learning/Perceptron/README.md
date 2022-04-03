@@ -1,7 +1,9 @@
 # Single Neuron Model
+
 ## The Perceptron
 
 The perceptron is a single neuron model with the sign activation function as depicted in the figure below.
+
 ---
 
 <p align="center">
