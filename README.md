@@ -8,6 +8,14 @@
 
 ## University of Houston-Downtown
 
+---
+
+<p align="center">
+    <img src="Machine_Learning.jpeg" width="700" hight ="800">
+</p>
+
+---
+
 ## Textbook:
 
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron
@@ -19,6 +27,13 @@
 This repository is created for a Statistical and Machine Learning course (Data 4319). This repository includes data science and machine learning algorithms and it is purely based on Python langauage. The main topics are supervised learning and unsupervised learning. 
 
 
+---
+
+<p align="center">
+    <img src="machine_learning.jpg" width="700" hight ="800">
+</p>
+
+---
 
 -Supervised Learning:
 
