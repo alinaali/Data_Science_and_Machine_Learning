@@ -1,4 +1,4 @@
-# Supervised Learning:
+# Supervised Learning
 It supervise the learning process, meaning the data that you have collected here is labelled and so you know what input needs to be mapped to what output. 
 This helps you correct your algorithm if it makes a mistake in giving you the answer.
 
