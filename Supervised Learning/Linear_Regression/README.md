@@ -35,7 +35,7 @@ Assume we have n observations Y1, Y2, … Yn, the MSE formula is below:
 ---
 
 <p align="center">
-    <img src="Mean_Squared_Error" width="700" hight ="800">
+    <img src="Mean_Squared_Error.png" width="700" hight ="800">
 </p>
 
 ---
