@@ -26,7 +26,13 @@
 
 This repository is created for a Statistical and Machine Learning course (Data 4319). This repository includes data science and machine learning algorithms and it is purely based on Python langauage. The main topics are supervised learning and unsupervised learning. 
 
+## Types of Machine Learning:
 
+There are three types of machine learning.
+
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
 ---
 
 <p align="center">
@@ -35,7 +41,7 @@ This repository is created for a Statistical and Machine Learning course (Data 4
 
 ---
 
--Supervised Learning:
+- Supervised Learning:
 
  1. Linear Regression
  2. Gradient Descent
