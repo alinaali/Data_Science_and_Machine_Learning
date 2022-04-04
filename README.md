@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-    <img src="Machine_Learning.jpeg" width="700" hight ="800">
+    <img src="Machine-Learning.jpeg" width="700" hight ="800">
 </p>
 
 ---
@@ -30,7 +30,7 @@ This repository is created for a Statistical and Machine Learning course (Data 4
 ---
 
 <p align="center">
-    <img src="machine_learning.jpg" width="700" hight ="800">
+    <img src="machine-learning.jpg" width="700" hight ="800">
 </p>
 
 ---
