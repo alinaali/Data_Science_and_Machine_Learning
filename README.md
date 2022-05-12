@@ -69,3 +69,6 @@ This is a public data from Kaggle [link to Kaggle data](https://www.kaggle.com/d
 
 3. Diabetes
 This is a public data from sklearn, load.diabetes [link to Website](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html#sklearn.datasets.load_diabetes)
+
+4. Fashion MNIST
+This is a public data from TensorFlow, fashion.load_data() [link to Website](https://www.tensorflow.org/datasets/catalog/fashion_mnist)
