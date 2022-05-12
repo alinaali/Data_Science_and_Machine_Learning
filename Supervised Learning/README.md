@@ -34,7 +34,7 @@ It is used whenever the output required is a number such as money or height etc.
 Classification, on the other hand, is the kind of learning where the algorithm needs to map the new data that is obtained to any one of the 2 classes that we have in our dataset. The classes need to be mapped to either 1 or 0 which in real-life translated to ‘Yes’ or ‘No’, ‘Rains’ or ‘Does Not Rain’ and so forth.
 The output will be either one of the classes and not a number as it was in Regression.
 
-## Adavantages of Supervised Machine Learning
+## Advantages of Supervised Machine Learning
 
 - You will have an exact idea about the classes in the training data.
 - Supervised learning is a simple process for you to understand. In the case of unsupervised learning, we don’t easily understand what is happening inside the machine, how it is learning, etc.
