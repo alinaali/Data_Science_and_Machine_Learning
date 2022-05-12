@@ -51,8 +51,16 @@ There are three types of machine learning.
  6. k-Nearest Neighbors
  7. Decision/ Regression Trees
  8. Ensemble Learning
+ 
 
 - Unsupervised Learning:
 
  1. k-Means Clustering
  2. Principle Component Analysis
+
+
+## Data Sets
+
+1. Penguins
+2. Heart Disease
+3. Diabetes
