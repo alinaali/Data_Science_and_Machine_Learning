@@ -3,7 +3,7 @@
 Logistic Regression is a supervised method of learning used for predicting the probability of a dependent or a target variable. Using Logistic Regression, we can predict and establish relationships between dependent and one or more independent variables.
 
 
-## Single Neuron Linear Regression Model
+## Single Neuron Logistic Regression Model
 ---
 
 <p align="center">
