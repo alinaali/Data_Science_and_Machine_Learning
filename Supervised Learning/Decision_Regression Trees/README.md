@@ -26,15 +26,15 @@ Regression Trees work in principal in the same way as Classification Trees with 
 
 # Heart Disease Dataset for Decision Tree
 
-The data used for this model is a public data from Kaggle [link to Kaggle data](ttps://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
+The data used for this model is a public data from Kaggle [link to Kaggle data](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
 # Diabetes Dataset for Regression Tree
-The data used for this model is a public data from sklearn, load.diabetes [link to Website] (https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html#sklearn.datasets.load_diabetes)
+The data used for this model is a public data from sklearn, load.diabetes [link to Website](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html)
 
 # Libraires
 
-Pandas https://pandas.pydata.org/
-Matplotlib https://matplotlib.org/
-Numpy https://numpy.org/
-Seaborn https://seaborn.pydata.org/
-Scikit-learn https://scikit-learn.org/
+- Pandas https://pandas.pydata.org/
+- Matplotlib https://matplotlib.org/
+- Numpy https://numpy.org/
+- Seaborn https://seaborn.pydata.org/
+- Scikit-learn https://scikit-learn.org/
