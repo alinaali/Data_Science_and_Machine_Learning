@@ -65,11 +65,7 @@ There are three types of machine learning.
 This is a public data from seaborn. seaborn.load_dataset("penguins"). [link to Website](https://seaborn.pydata.org/generated/seaborn.load_dataset.html)
 
 2. Heart Disease
-<<<<<<< HEAD
 This is a public data from Kaggle. [link to Kaggle data](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
-=======
-This is a public data from Kaggle [link to Kaggle data](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
->>>>>>> 70d82846727aa77be9073c402a5f3452ebf468c1
 
 3. Diabetes
 This is a public data from sklearn, load.diabetes [link to Website](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html#sklearn.datasets.load_diabetes)
