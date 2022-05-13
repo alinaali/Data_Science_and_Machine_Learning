@@ -49,7 +49,7 @@ There are three types of machine learning.
  4. Neural Nets
  5. Support Vector Machines
  6. k-Nearest Neighbors
- 7. Decision/ Regression Trees
+ 7. Decision/Regression Trees
  8. Ensemble Learning
  
 
