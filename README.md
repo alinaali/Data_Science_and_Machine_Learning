@@ -62,13 +62,17 @@ There are three types of machine learning.
 ## Data Sets
 
 1. Penguins
-This is a public data from seaborn. seaborn.load_dataset("penguins"). [link to Website](https://seaborn.pydata.org/generated/seaborn.load_dataset.html)
+
+- This is a public data from seaborn. seaborn.load_dataset("penguins"). [link to Website](https://seaborn.pydata.org/generated/seaborn.load_dataset.html)
 
 2. Heart Disease
-This is a public data from Kaggle. [link to Kaggle data](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
+
+- This is a public data from Kaggle. [link to Kaggle data](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
 3. Diabetes
-This is a public data from sklearn, load.diabetes [link to Website](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html#sklearn.datasets.load_diabetes)
+
+- This is a public data from sklearn, load.diabetes [link to Website](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html#sklearn.datasets.load_diabetes)
 
 4. Fashion MNIST
-This is a public data from TensorFlow, fashion.load_data() [link to Website](https://www.tensorflow.org/datasets/catalog/fashion_mnist)
+
+- This is a public data from TensorFlow, fashion.load_data() [link to Website](https://www.tensorflow.org/datasets/catalog/fashion_mnist)
